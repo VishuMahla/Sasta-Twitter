@@ -1,0 +1,30 @@
+body{
+    background-color: #222222;
+    color: grey;
+}
+h1{
+    color: #b2b2b2;
+}
+
+div{
+    background-color: #444444 ;
+    margin-top: 5px;
+    
+}
+
+h4{
+    color: #a1a1a1;
+    padding-bottom: 3px;
+}
+h3 {
+    color: #939393;
+    padding-top:3px;
+}
+
+ .a{
+    background-color: #444444 ;
+    text-decoration: none;
+    color: #a1a1a1 ;
+    padding: 5px;
+    border-radius: 10px;
+}
